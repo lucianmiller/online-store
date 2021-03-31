@@ -10,3 +10,8 @@ img {
 .jumbotron {
   text-align: center;
 }
+
+#receipt {
+  text-align: center;
+  font-size: 14px;
+}
