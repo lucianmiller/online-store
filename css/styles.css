@@ -6,3 +6,7 @@ img {
   width: 50%;
   height: auto;
 }
+
+.jumbotron {
+  text-align: center;
+}
